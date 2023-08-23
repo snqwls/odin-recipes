@@ -42,5 +42,8 @@
     display: inline-block;
     width: 200px;
     margin: 20px;
-    border-color: black;
+    border: 1px solid black;
+}
+.linkbox {
+    margin: auto;
 }
