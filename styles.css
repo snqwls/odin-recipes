@@ -39,9 +39,13 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
     width: 300px;
-    margin: 20px;
+    margin: 20px auto;
     border: 1px solid black;
     padding: 20px;
+}
+.linkbox {
+    text-align: center;
+    margin: 0 auto;
 }
 body {
     width: 500px;
