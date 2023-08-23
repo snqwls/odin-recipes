@@ -32,18 +32,18 @@
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 50px;
-    margin: 20px auto;
-    width: 500px;
+    margin: 20px
 }
 .link {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
-    display: inline-block;
-    width: 200px;
+    width: 300px;
     margin: 20px;
     border: 1px solid black;
+    padding: 20px;
 }
-.linkbox {
-    margin: auto;
+body {
+    width: 500px;
+    margin: 0 auto;
 }
