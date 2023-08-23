@@ -31,6 +31,7 @@
     border: dotted 2px black;
     background-color: blueviolet;
     text-align: center;
+    width: auto;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 80px;
     margin: 20px
@@ -48,9 +49,7 @@
     padding: 50 px;
     border: dotted 1px black;
     margin-top: 50px;
-
-}
-body {
     width: 500px;
     margin: 0 auto;
+
 }
