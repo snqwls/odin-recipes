@@ -28,10 +28,11 @@
 }
 .main_heading {
     color: white;
+    border: dotted 2px black;
     background-color: blueviolet;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 50px;
+    font-size: 80px;
     margin: 20px
 }
 .link {
@@ -44,8 +45,10 @@
     padding: 20px;
 }
 .linkbox {
-    text-align: center;
-    margin: 0 auto;
+    padding: 50 px;
+    border: dotted 1px black;
+    margin-top: 50px;
+
 }
 body {
     width: 500px;
