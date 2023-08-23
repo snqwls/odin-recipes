@@ -61,3 +61,7 @@
     height: auto;
     margin: 50px auto;
 }
+.recipecard {
+    width: 75%;
+    margin: 0 auto;
+}
