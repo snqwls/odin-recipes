@@ -54,6 +54,7 @@
 
 }
 .homepage {
+    display: block;
     width: 600px;
     height: auto;
 }
