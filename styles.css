@@ -29,11 +29,11 @@
     width: auto;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 80px;
-    margin: 20% 20px;
+    margin: 20px 20%;
 }
 .recipe-card .main_heading {
     font-size: 50px;
-    margin: 30% 20px;
+    margin: 2opx 30%;
 }
 .link {
     text-align: center;
