@@ -6,6 +6,8 @@
     font-size: 40px;
 }
 .image {
+    display: block;
+    margin: 20px auto;
     height: auto;
     width: 400px;
 }
