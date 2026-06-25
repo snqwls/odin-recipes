@@ -1,0 +1,23 @@
+.block {
+    display: inline-block;
+   text-align: center;
+   background-color: lightblue;
+   padding: 50px;
+   border-color: black;
+   border-radius: 1cm;
+   color: black;
+   font-size: 32px;
+   margin: auto 10px;
+}
+.first_page {
+    display: block;
+    margin: 100px auto;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+.title {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
