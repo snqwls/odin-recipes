@@ -17,7 +17,52 @@
     color: black;
 }
 .title {
-    font-size: 50px;
+    font-size: 100px;
     font-family: 'Courier New', Courier, monospace;
 
+}
+.container {
+    display: block;
+    text-align: center;
+    background-color: lightblue;
+    margin: 50px;
+    border-radius: 1cm;
+    padding: 20px;
+}
+.heading {
+    font-size: 50px;
+    background-color: lightcyan;
+    border-radius: 1cm;
+    display: block;
+
+}
+.recipe-block {
+    display: block;
+    margin: 10px auto;
+       font-size: 25px;
+       background-color: white;
+       padding: 20px;
+       width: 50%;
+       border-radius: 1cm;
+}
+.button {
+    padding: 20px;
+    border-radius: 1cm;
+    font-size: 20px;
+    background-color: white;
+    display: block;
+    width: 100px;
+    margin: 10px auto;
+}
+.description {
+        display: block;
+    margin: 10px auto;
+       font-size: 20px;
+       background-color: white;
+       padding: 20px;
+       width: 50%;
+       border-radius: 1cm;
+}
+.allign {
+    text-align: left;
 }
